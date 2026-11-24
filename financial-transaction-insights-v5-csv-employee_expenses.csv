@@ -1,0 +1,121 @@
+id,employee_name,amount,expense_date,description
+1,Julia Weber,887.80,2023-05-03,A partial follow-up: the refund was reopened.
+2,Ana Ahmed,253.31,2022-10-21,The refund was processed after a duplicate check.
+3,Maria Smith,21.38,2023-07-25,An unusual follow-up: the request was processed.
+4,Maja Ali,191.94,2023-06-17,The appointment was resolved after a late check.
+5,Elena Gupta,40.74,2023-11-14,The reviewer confirmed the details and the account was reopened.
+6,Marco Gupta,53.12,2022-05-18,The shipment was resolved after an incomplete check.
+7,Lucas Gomez,2865.37,2022-12-11,Flagged as routine. The team cancelled the document.
+8,Mei Reyes,46.34,2023-04-09,The account owner reported a late issue; the claim was escalated.
+9,Carlos Wang,679.74,2022-06-19,Flagged as urgent. The reviewer approved the document.
+10,Hannah Hoffmann,30.85,2023-08-22,"The document was confirmed — partial case, no further action."
+11,Chloe Hansen,1846.25,2023-11-07,Support reported a duplicate issue; the item was cancelled.
+12,Ruby Flores,35.99,2022-07-10,The customer reported a duplicate issue; the record was processed.
+13,Mateo Kumar,402.96,2022-10-20,The supplier confirmed the details and the transfer was rejected.
+14,Hugo Smith,1670.50,2023-07-20,The request was confirmed after a manual check.
+15,Ben Taylor,2088.75,2023-11-02,The transfer was confirmed after a standard check.
+16,Mila Ibrahim,165.30,2022-08-05,The account owner reported an urgent issue; the session was approved.
+17,Hana Miller,1290.62,2022-10-25,"No response from the reviewer, so the account was reviewed."
+18,Chloe Meyer,29.72,2023-04-03,The customer asked for a change and the record was processed.
+19,Emma Baker,240.35,2023-06-22,The courier asked for a change and the appointment was closed.
+20,Selin Moreau,339.77,2023-08-14,The session was updated following an urgent review.
+21,Ethan Cruz,80.67,2023-08-02,The reviewer confirmed the details and the delivery was reopened.
+22,David Novak,1270.61,2022-02-20,"No response from the courier, so the order was updated."
+23,Ben Bennett,551.70,2023-06-05,An unusual follow-up: the item was cancelled.
+24,Hugo Martin,87.86,2023-03-05,The account was rescheduled following a manual review.
+25,Laura Lee,786.33,2023-11-18,The reviewer confirmed the details and the refund was rescheduled.
+26,Mei Yilmaz,649.61,2022-12-09,The reviewer confirmed the details and the claim was escalated.
+27,Zoe Novak,832.83,2023-05-26,"The refund was completed — standard case, no further action."
+28,Alice Castro,2918.37,2023-02-23,The customer confirmed the details and the transfer was approved.
+29,Chloe Martin,1127.59,2022-01-19,The shipment was reopened following a late review.
+30,Maria Hughes,148.08,2023-07-21,An urgent report was reopened the same day.
+31,Alice Rossi,1041.62,2022-09-30,Flagged as late. An operator reopened the item.
+32,Pedro Kaya,2531.33,2022-12-05,"The appointment was approved — minor case, no further action."
+33,Tariq Fischer,269.54,2022-09-17,"No response from an operator, so the payment was delayed."
+34,Ravi Ahmed,1905.28,2022-07-28,Flagged as manual. The team processed the booking.
+35,Wei Becker,1380.04,2022-09-07,The session was rescheduled following a minor review.
+36,Chen Yilmaz,222.05,2023-08-15,The supplier reported a late issue; the shipment was approved.
+37,Chloe Carter,694.04,2023-08-18,"The appointment was rejected — incomplete case, no further action."
+38,Arjun Klein,749.85,2022-05-12,"No response from the courier, so the booking was delayed."
+39,Amir Miller,263.79,2022-06-08,An unusual session was escalated the same day.
+40,Maja Hoffmann,215.21,2022-06-11,The customer reported an urgent issue; the account was closed.
+41,Carla Wilson,1821.77,2023-08-13,The ticket was approved following a standard review.
+42,Maja Patel,113.13,2023-06-24,Support confirmed the details and the delivery was resolved.
+43,Fatima Carter,2897.93,2023-02-04,The customer reported an urgent issue; the order was reopened.
+44,Uma Ali,968.43,2023-12-23,Flagged as partial. The courier completed the payment.
+45,Isaac Ibrahim,217.37,2023-12-17,A duplicate follow-up: the ticket was processed.
+46,Lina Miller,881.83,2023-12-04,"The claim was resolved — manual case, no further action."
+47,Selin Weber,1602.76,2022-10-10,The document was processed following an unusual review.
+48,Arjun Baker,142.35,2023-07-17,An incomplete record was replaced the same day.
+49,Oscar Kaya,2390.25,2023-02-19,The payment was resolved following a partial review.
+50,Maria Reyes,2133.82,2023-06-19,Flagged as late. The customer rescheduled the appointment.
+51,Yara Adams,1232.49,2023-11-19,The ticket was refunded after a standard check.
+52,Ravi Meyer,2429.18,2023-02-22,Flagged as late. The team closed the booking.
+53,Oscar Hansen,368.56,2023-03-19,"No response from support, so the payment was resolved."
+54,Marco Moreau,20.46,2023-10-23,"The invoice was reopened — incomplete case, no further action."
+55,Yara Young,188.58,2023-11-24,Flagged as manual. An operator escalated the invoice.
+56,Rosa Hansen,24.59,2022-12-06,The booking was closed after an unusual check.
+57,Oscar Reyes,2297.03,2023-02-03,The ticket was updated after a duplicate check.
+58,Mei Mendes,1566.53,2022-04-28,The courier asked for a change and the item was resolved.
+59,Ana Adams,101.32,2023-01-14,The reviewer reported a repeat issue; the session was rescheduled.
+60,Kai Schmidt,106.21,2023-09-25,The report was resolved after a routine check.
+61,Marco Kumar,2031.73,2023-10-05,The supplier confirmed the details and the transfer was reviewed.
+62,Lena Ibrahim,27.73,2022-11-05,Support asked for a change and the invoice was completed.
+63,Mila Adams,63.29,2023-10-12,The transfer was replaced after an unusual check.
+64,Daniel Smith,606.12,2023-03-09,The customer reported a standard issue; the appointment was cancelled.
+65,Sofia Reyes,156.69,2022-06-24,The session was completed after an incomplete check.
+66,Mila Kowalski,2950.21,2022-01-30,Flagged as standard. The team reopened the booking.
+67,Laura Miller,2130.61,2023-10-30,A late follow-up: the invoice was cancelled.
+68,Pedro Jansen,1756.44,2022-12-30,"No response from an operator, so the report was completed."
+69,Anna Vargas,737.43,2023-03-11,An automatic follow-up: the refund was confirmed.
+70,Hugo Park,1328.62,2023-01-31,Flagged as partial. Support resolved the appointment.
+71,Felix Johnson,1459.82,2023-03-03,"No response from an operator, so the account was rescheduled."
+72,Isaac Davis,416.53,2022-06-19,The courier reported a late issue; the shipment was reopened.
+73,Ruby Walker,1381.03,2023-11-19,An unusual delivery was reopened the same day.
+74,Ethan Schneider,155.66,2023-12-30,The document was approved following a duplicate review.
+75,Elif Nguyen,1365.93,2022-04-29,"No response from the courier, so the session was replaced."
+76,Sven Garcia,1952.95,2022-12-23,An urgent follow-up: the report was completed.
+77,Chen Johnson,585.14,2023-07-26,An operator reported a repeat issue; the ticket was rescheduled.
+78,Leo Young,521.87,2023-09-16,"No response from the supplier, so the ticket was reopened."
+79,Pedro Khan,1743.48,2023-10-11,The customer asked for a change and the claim was resolved.
+80,Mei Weber,60.48,2023-06-14,The reviewer asked for a change and the ticket was reopened.
+81,Selin Diaz,1834.49,2022-03-18,A minor document was resolved the same day.
+82,Ibrahim Sousa,37.35,2022-03-13,The account owner confirmed the details and the order was approved.
+83,Rafael Larsen,27.51,2022-08-25,The account owner confirmed the details and the invoice was refunded.
+84,Lina Klein,2257.30,2023-01-19,A partial follow-up: the account was reopened.
+85,Oscar Chen,1798.47,2023-05-25,"No response from the team, so the invoice was delayed."
+86,Maya Patel,64.46,2023-07-29,Flagged as duplicate. The reviewer processed the order.
+87,Sara Lopez,722.82,2023-04-07,A routine follow-up: the payment was escalated.
+88,Jonas Meyer,1863.64,2023-09-20,Flagged as repeat. The courier resolved the booking.
+89,Elif Reyes,2995.39,2023-12-26,"No response from the reviewer, so the shipment was processed."
+90,Elena Park,2453.34,2023-01-31,A late follow-up: the claim was approved.
+91,Chen Oliveira,34.93,2023-11-20,A minor follow-up: the request was resolved.
+92,Wei Becker,799.04,2022-11-30,The supplier confirmed the details and the transfer was processed.
+93,Elena Singh,113.91,2023-10-08,The invoice was delayed after a late check.
+94,Hana Walker,43.77,2023-09-10,Flagged as minor. The customer resolved the account.
+95,Fatima Mendes,181.26,2023-06-10,The request was delayed after a manual check.
+96,Hana Ibrahim,1089.70,2023-07-10,An operator reported an automatic issue; the order was refunded.
+97,Ben Hansen,596.26,2023-05-19,The refund was confirmed following an incomplete review.
+98,Nour Wright,1418.37,2023-11-01,Flagged as unusual. Support confirmed the appointment.
+99,Grace Singh,2974.54,2023-06-19,The payment was replaced after a repeat check.
+100,Diego Kim,994.63,2022-06-13,The account owner asked for a change and the booking was reviewed.
+101,Liam Johnson,33.34,2023-06-15,"The transfer was delayed — partial case, no further action."
+102,Arjun Silva,489.12,2023-12-25,A minor follow-up: the claim was cancelled.
+103,Carla Mendes,449.09,2023-01-04,Flagged as duplicate. The team approved the account.
+104,Grace Hansen,689.57,2022-09-29,The courier reported an unusual issue; the ticket was refunded.
+105,Hugo Moreau,1018.69,2023-06-15,"The order was completed — duplicate case, no further action."
+106,Sofia Martin,952.73,2023-09-16,"No response from an operator, so the delivery was delayed."
+107,Olivia Becker,963.02,2022-06-05,"No response from the account owner, so the claim was delayed."
+108,Theo Young,137.43,2022-03-14,The refund was approved following a partial review.
+109,Elif Fischer,2686.69,2022-03-10,The reviewer asked for a change and the item was replaced.
+110,Rosa Costa,31.20,2022-08-11,"No response from the team, so the request was completed."
+111,Isaac Sato,2625.11,2022-07-11,The record was cancelled after a partial check.
+112,Carlos Evans,1053.91,2023-04-23,"No response from the reviewer, so the report was reviewed."
+113,Hugo Bennett,59.86,2022-12-31,"The booking was approved — urgent case, no further action."
+114,Emma Bauer,2636.29,2023-12-06,The customer confirmed the details and the item was reopened.
+115,Alice Chen,2418.21,2022-09-12,"The document was escalated — manual case, no further action."
+116,Maja Hughes,1062.65,2022-08-25,The session was updated following an incomplete review.
+117,Noah Flores,635.60,2022-06-28,The shipment was replaced after a standard check.
+118,Jade Wang,89.92,2022-08-15,A partial session was updated the same day.
+119,Lina Dubois,109.53,2022-06-26,"No response from the courier, so the report was reopened."
+120,Victor Kowalski,927.63,2023-07-06,Support asked for a change and the invoice was escalated.

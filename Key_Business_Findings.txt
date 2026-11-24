@@ -1,0 +1,28 @@
+## Key Business Findings
+
+### 1. Financial Performance
+
+- **Invoice Overview:** The company generated approximately 639.99K in invoice value across 200 invoices.
+- **Invoice Status:** 68% of invoices are pending, 23% are paid, and 9% are overdue.
+- **Monthly Performance:** June recorded the highest invoice amount (approximately 98K), while April recorded the lowest.
+- **Payment Methods:** Credit Card is the most frequently used payment method by total recorded payment amount, followed by Bank Transfer and Cash.
+- **Customer Performance:** Julia Wilson, Paula Hughes, Jack Cruz, Hugo Kim, and Jack Bennett are the top five customers by invoice amount.
+- **Tax Distribution:** Sales Tax contributes the highest amount, followed by Income Tax and Property Tax.
+
+### 2. Budget & Expense Analysis
+
+- **Budget Allocation:** Total allocated budget is approximately 1.13M, while total spending is approximately 1.42M.
+- **Budget Utilization:** Overall budget utilization reached 126.07%, indicating spending exceeded the allocated budget by approximately 26.07%.
+- **Budget Status:** 46 out of 80 budget records are over budget, while 34 are within budget.
+- **Department Performance:** The Development department recorded approximately 80K in spending against an allocated budget of approximately 53K.
+- **Employee Expenses:** Total employee expenses reached approximately 115.21K.
+- **Monthly Expense Trend:** December recorded the highest employee expenses (approximately 18K), while August recorded the lowest.
+- **Top Employees:** Elif Reyes, Grace Singh, Mila Kowalski, Alice Castro, and Fatima Carter are the top five employees by recorded expenses.
+
+### 3. Overall Business Recommendations
+
+- Improve follow-up processes for pending invoices.
+- Investigate the difference between invoice amounts and recorded payments.
+- Monitor departments exceeding their allocated budgets.
+- Review the reasons behind increased employee expenses in December.
+- Strengthen budget planning and expense control.
